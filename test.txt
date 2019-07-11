@@ -8,3 +8,4 @@ echo "My first PHP test script! test kumar";
 
 </body>
 </html>
+//========================================================
